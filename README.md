@@ -1,1 +1,1 @@
-# MediBot-end-to-end
+# medibot-gen-ai
